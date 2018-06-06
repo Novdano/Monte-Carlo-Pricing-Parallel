@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Monte_Carlo", "Monte_Carlo\Monte_Carlo.vcxproj", "{DBCBF72E-DCDF-4F02-9C3C-66BFD3E65E99}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9251243E-5F72-4193-B87A-F9BCD3D74161}"
+	ProjectSection(SolutionItems) = preProject
+		..\hello_world.cpp = ..\hello_world.cpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCBF72E-DCDF-4F02-9C3C-66BFD3E65E99}.Debug|x64.ActiveCfg = Debug|x64
+		{DBCBF72E-DCDF-4F02-9C3C-66BFD3E65E99}.Debug|x64.Build.0 = Debug|x64
+		{DBCBF72E-DCDF-4F02-9C3C-66BFD3E65E99}.Debug|x86.ActiveCfg = Debug|Win32
+		{DBCBF72E-DCDF-4F02-9C3C-66BFD3E65E99}.Debug|x86.Build.0 = Debug|Win32
+		{DBCBF72E-DCDF-4F02-9C3C-66BFD3E65E99}.Release|x64.ActiveCfg = Release|x64
+		{DBCBF72E-DCDF-4F02-9C3C-66BFD3E65E99}.Release|x64.Build.0 = Release|x64
+		{DBCBF72E-DCDF-4F02-9C3C-66BFD3E65E99}.Release|x86.ActiveCfg = Release|Win32
+		{DBCBF72E-DCDF-4F02-9C3C-66BFD3E65E99}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56E100E7-5F8F-46AC-9210-C9F551D2D360}
+	EndGlobalSection
+EndGlobal
